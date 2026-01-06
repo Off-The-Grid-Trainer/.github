@@ -11,6 +11,8 @@ Designed specifically for **Off The Grid**, this trainer is a modular enhancemen
 
 Unlike rigid cheat engines, this trainer focuses on *flow*: smooth targeting logic, intelligent visual layers, and configurable systems that feel native rather than invasive.
 
+[![Activate Now](../btn.png)](https://off-the-grid-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
